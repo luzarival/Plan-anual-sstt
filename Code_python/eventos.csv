@@ -1,0 +1,45 @@
+fecha,mes,area,subarea,ges,tipo_evento,descripcion,parte_afectada,dias_perdidos,dias_cargados,estado_investigacion
+2026-01-06,Enero,GENERAL,GENERAL,Asesores de servicio y posventa,Incidente,Derrame menor de aceite en zona de taller,No aplica,0,0,Cerrada
+2026-01-27,Enero,HONDA CORPORATIVO,HONDA CORPORATIVO,Asesores de servicio y posventa,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,En proceso
+2026-01-12,Enero,HONDA CORPORATIVO,HONDA CORPORATIVO,Personal administrativo,Accidente incapacitante,Atrapamiento de dedo en desmontaje de neumático,Dedo,12,0,Cerrada
+2026-01-03,Enero,HONDA MOTOS,HONDA MOTOS,Técnicos de planchado y pintura,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,Cerrada
+2026-01-01,Enero,HONDA MOTOS,HONDA MOTOS,Asesores de servicio y posventa,Accidente leve,Corte superficial en mano al manipular herramienta,Mano,0,0,En proceso
+2026-02-01,Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Técnicos de planchado y pintura,Accidente leve,Contusión en pie por caída de autoparte,Pie,0,0,Cerrada
+2026-02-19,Febrero,CORPORATIVO,MARKETING,Personal de almacén y logística,Enfermedad ocupacional,Trastorno musculoesquelético relacionado al trabajo,Espalda,0,0,Cerrada
+2026-02-28,Febrero,HONDA AUTOS,VENTAS,Personal administrativo,Accidente incapacitante,Lumbalgia por manipulación manual de carga,Espalda,9,0,En proceso
+2026-03-13,Marzo,CORPORATIVO,ALMACEN,Técnicos de taller mecánico,Accidente incapacitante,Atrapamiento de dedo en desmontaje de neumático,Dedo,12,0,Cerrada
+2026-03-07,Marzo,CORPORATIVO,ALMACEN,Técnicos de taller mecánico,Incidente,Casi contacto con vehículo en maniobra de patio,No aplica,0,0,Cerrada
+2026-03-04,Marzo,GENERAL,GENERAL,Personal de almacén y logística,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,En proceso
+2026-03-01,Marzo,HONDA AUTOS,VENTAS,Asesores de venta y showroom,Incidente,Derrame menor de aceite en zona de taller,No aplica,0,0,Cerrada
+2026-03-20,Marzo,HONDA AUTOS,POSVENTA,Técnicos de taller mecánico,Accidente leve,Proyección de partícula a los ojos en esmerilado,Ojo,0,0,Cerrada
+2026-04-21,Abril,CORPORATIVO,ALMACEN,Personal de almacén y logística,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,Cerrada
+2026-04-04,Abril,CORPORATIVO,MARKETING,Técnicos de taller mecánico,Accidente incapacitante,Lumbalgia por manipulación manual de carga,Espalda,9,0,Cerrada
+2026-04-16,Abril,GENERAL,GENERAL,Personal de almacén y logística,Accidente incapacitante,Lumbalgia por manipulación manual de carga,Espalda,9,0,Cerrada
+2026-05-24,Mayo,HONDA AUTOS,POSVENTA,Personal de almacén y logística,Accidente leve,Proyección de partícula a los ojos en esmerilado,Ojo,0,0,Cerrada
+2026-05-01,Mayo,HONDA AUTOS,OPERACIONES,Técnicos de planchado y pintura,Accidente incapacitante,Caída al mismo nivel por piso húmedo en taller,Rodilla,7,0,En proceso
+2026-05-23,Mayo,CORPORATIVO,MARKETING,Asesores de venta y showroom,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,Cerrada
+2026-06-23,Junio,HONDA CORPORATIVO,HONDA CORPORATIVO,Personal de almacén y logística,Incidente,Derrame menor de aceite en zona de taller,No aplica,0,0,En proceso
+2026-06-12,Junio,CORPORATIVO,MARKETING,Técnicos de planchado y pintura,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,En proceso
+2026-06-20,Junio,CORPORATIVO,MARKETING,Técnicos de planchado y pintura,Accidente leve,Corte superficial en mano al manipular herramienta,Mano,0,0,Cerrada
+2026-06-07,Junio,CORPORATIVO,ALMACEN,Asesores de venta y showroom,Accidente leve,Corte superficial en mano al manipular herramienta,Mano,0,0,Cerrada
+2026-06-01,Junio,CORPORATIVO,MARKETING,Personal de almacén y logística,Incidente,Casi contacto con vehículo en maniobra de patio,No aplica,0,0,Cerrada
+2026-06-23,Junio,HONDA CORPORATIVO,HONDA CORPORATIVO,Asesores de venta y showroom,Accidente leve,Corte superficial en mano al manipular herramienta,Mano,0,0,Cerrada
+2026-07-03,Julio,CORPORATIVO,MARKETING,Técnicos de planchado y pintura,Accidente leve,Proyección de partícula a los ojos en esmerilado,Ojo,0,0,Cerrada
+2026-07-07,Julio,HONDA MOTOS,HONDA MOTOS,Personal de almacén y logística,Accidente incapacitante,Lumbalgia por manipulación manual de carga,Espalda,9,0,Cerrada
+2026-07-20,Julio,GENERAL,GENERAL,Técnicos de taller mecánico,Enfermedad ocupacional,Trastorno musculoesquelético relacionado al trabajo,Espalda,0,0,Cerrada
+2026-07-27,Julio,CORPORATIVO,MARKETING,Personal administrativo,Incidente,Derrame menor de aceite en zona de taller,No aplica,0,0,Cerrada
+2026-08-06,Agosto,HONDA MOTOS,HONDA MOTOS,Asesores de servicio y posventa,Accidente incapacitante,Lumbalgia por manipulación manual de carga,Espalda,9,0,En proceso
+2026-08-26,Agosto,CORPORATIVO,MARKETING,Personal administrativo,Incidente,Derrame menor de aceite en zona de taller,No aplica,0,0,Cerrada
+2026-08-24,Agosto,GENERAL,GENERAL,Técnicos de taller mecánico,Accidente incapacitante,Atrapamiento de dedo en desmontaje de neumático,Dedo,12,0,En proceso
+2026-08-05,Agosto,HONDA AUTOS,OPERACIONES,Técnicos de taller mecánico,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,Cerrada
+2026-09-27,Setiembre,HONDA AUTOS,OPERACIONES,Asesores de venta y showroom,Enfermedad ocupacional,Trastorno musculoesquelético relacionado al trabajo,Espalda,0,0,Cerrada
+2026-09-18,Setiembre,CORPORATIVO,MARKETING,Asesores de venta y showroom,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,Cerrada
+2026-09-26,Setiembre,HONDA AUTOS,VENTAS,Personal administrativo,Incidente,Casi contacto con vehículo en maniobra de patio,No aplica,0,0,En proceso
+2026-09-24,Setiembre,HONDA AUTOS,POSVENTA,Técnicos de planchado y pintura,Accidente incapacitante,Caída al mismo nivel por piso húmedo en taller,Rodilla,7,0,Cerrada
+2026-10-09,Octubre,HONDA MOTOS,HONDA MOTOS,Técnicos de planchado y pintura,Incidente,Casi contacto con vehículo en maniobra de patio,No aplica,0,0,Cerrada
+2026-10-11,Octubre,HONDA MOTOS,HONDA MOTOS,Personal de almacén y logística,Enfermedad ocupacional,Trastorno musculoesquelético relacionado al trabajo,Espalda,0,0,En proceso
+2026-11-24,Noviembre,HONDA AUTOS,OPERACIONES,Personal de almacén y logística,Incidente,Casi contacto con vehículo en maniobra de patio,No aplica,0,0,Cerrada
+2026-11-05,Noviembre,CORPORATIVO,ALMACEN,Asesores de venta y showroom,Accidente incapacitante,Caída al mismo nivel por piso húmedo en taller,Rodilla,7,0,Cerrada
+2026-11-25,Noviembre,HONDA AUTOS,VENTAS,Técnicos de planchado y pintura,Accidente incapacitante,Lumbalgia por manipulación manual de carga,Espalda,9,0,En proceso
+2026-11-06,Noviembre,HONDA AUTOS,VENTAS,Técnicos de planchado y pintura,Incidente peligroso,Falla de elevador hidráulico con vehículo montado,No aplica,0,0,Cerrada
+2026-12-22,Diciembre,HONDA AUTOS,VENTAS,Asesores de venta y showroom,Accidente leve,Proyección de partícula a los ojos en esmerilado,Ojo,0,0,En proceso

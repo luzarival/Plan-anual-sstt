@@ -1,0 +1,721 @@
+mes,area,subarea,tipo_programa,actividad,programado,ejecutado,responsable
+Enero,GENERAL,GENERAL,Inspecciones,Inspección planeada de taller,1,1,Supervisor de área
+Enero,CORPORATIVO,ALMACEN,Inspecciones,Inspección planeada de taller,3,3,Jefe de SST
+Enero,HONDA AUTOS,VENTAS,Inspecciones,Inspección planeada de taller,4,3,Jefe de SST
+Enero,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección planeada de taller,1,0,CSST
+Enero,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,4,3,Supervisor de área
+Enero,CORPORATIVO,MARKETING,Inspecciones,Inspección de equipos de emergencia,3,2,Supervisor de área
+Enero,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección de equipos de emergencia,4,4,Médico ocupacional
+Enero,GENERAL,GENERAL,Inspecciones,Inspección de equipos de emergencia,1,0,Médico ocupacional
+Enero,CORPORATIVO,MARKETING,Inspecciones,Inspección preoperacional de montacargas,4,4,Supervisor de área
+Enero,HONDA AUTOS,VENTAS,Inspecciones,Inspección preoperacional de montacargas,3,3,Supervisor de área
+Enero,GENERAL,GENERAL,Inspecciones,Inspección preoperacional de montacargas,3,3,CSST
+Enero,HONDA AUTOS,POSVENTA,Inspecciones,Inspección preoperacional de montacargas,2,1,Supervisor de área
+Enero,HONDA AUTOS,POSVENTA,Capacitación,Ejecución del programa anual de capacitación,2,2,Médico ocupacional
+Enero,HONDA MOTOS,HONDA MOTOS,Capacitación,Ejecución del programa anual de capacitación,4,4,Médico ocupacional
+Enero,CORPORATIVO,ALMACEN,Capacitación,Ejecución del programa anual de capacitación,2,2,CSST
+Enero,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,1,0,CSST
+Enero,HONDA AUTOS,VENTAS,Simulacros,Simulacro de sismo,4,2,Jefe de SST
+Enero,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de sismo,4,4,CSST
+Enero,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,1,1,Supervisor de área
+Enero,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de sismo,1,1,CSST
+Enero,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de incendio en taller,2,1,CSST
+Enero,HONDA AUTOS,VENTAS,Simulacros,Simulacro de incendio en taller,4,4,Médico ocupacional
+Enero,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de incendio en taller,3,3,CSST
+Enero,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de incendio en taller,1,0,Supervisor de área
+Enero,CORPORATIVO,ALMACEN,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Jefe de SST
+Enero,HONDA AUTOS,VENTAS,Simulacros,Simulacro de derrame de sustancias peligrosas,2,2,CSST
+Enero,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de derrame de sustancias peligrosas,1,0,Jefe de SST
+Enero,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,3,2,Médico ocupacional
+Enero,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Exámenes médicos ocupacionales,2,2,Supervisor de área
+Enero,GENERAL,GENERAL,Salud ocupacional,Exámenes médicos ocupacionales,3,3,Supervisor de área
+Enero,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,2,2,CSST
+Enero,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,2,2,Médico ocupacional
+Enero,HONDA AUTOS,OPERACIONES,Salud ocupacional,Campaña de pausas activas,3,3,Jefe de SST
+Enero,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,1,0,Supervisor de área
+Enero,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,4,4,Médico ocupacional
+Enero,HONDA AUTOS,VENTAS,Salud ocupacional,Campaña de pausas activas,1,0,Médico ocupacional
+Enero,GENERAL,GENERAL,Salud ocupacional,Evaluación de riesgo psicosocial,3,1,Supervisor de área
+Enero,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Evaluación de riesgo psicosocial,2,2,Supervisor de área
+Enero,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Evaluación de riesgo psicosocial,2,1,CSST
+Enero,CORPORATIVO,ALMACEN,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,Jefe de SST
+Enero,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de ruido,4,4,Jefe de SST
+Enero,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de ruido,1,0,Médico ocupacional
+Enero,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de ruido,3,2,Supervisor de área
+Enero,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de ruido,3,3,Médico ocupacional
+Enero,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,1,CSST
+Enero,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,2,CSST
+Enero,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,2,CSST
+Enero,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,2,Supervisor de área
+Enero,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,Supervisor de área
+Enero,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,1,Jefe de SST
+Enero,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,Jefe de SST
+Enero,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,1,Jefe de SST
+Enero,CORPORATIVO,ALMACEN,Observaciones preventivas,Observación preventiva de conducta,2,2,Supervisor de área
+Enero,HONDA AUTOS,VENTAS,Observaciones preventivas,Observación preventiva de conducta,4,4,Médico ocupacional
+Enero,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,2,2,Supervisor de área
+Enero,CORPORATIVO,MARKETING,Observaciones preventivas,Observación preventiva de conducta,1,0,Médico ocupacional
+Enero,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,0,Supervisor de área
+Enero,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,1,Jefe de SST
+Enero,CORPORATIVO,ALMACEN,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,0,CSST
+Enero,CORPORATIVO,MARKETING,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,0,Médico ocupacional
+Febrero,HONDA AUTOS,VENTAS,Inspecciones,Inspección planeada de taller,2,1,CSST
+Febrero,CORPORATIVO,MARKETING,Inspecciones,Inspección planeada de taller,1,0,Jefe de SST
+Febrero,GENERAL,GENERAL,Inspecciones,Inspección planeada de taller,1,0,Jefe de SST
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección planeada de taller,4,4,Jefe de SST
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección de equipos de emergencia,2,0,Médico ocupacional
+Febrero,HONDA AUTOS,POSVENTA,Inspecciones,Inspección de equipos de emergencia,4,3,Jefe de SST
+Febrero,CORPORATIVO,MARKETING,Inspecciones,Inspección de equipos de emergencia,4,2,CSST
+Febrero,CORPORATIVO,ALMACEN,Inspecciones,Inspección de equipos de emergencia,1,0,Supervisor de área
+Febrero,HONDA AUTOS,POSVENTA,Inspecciones,Inspección preoperacional de montacargas,3,1,CSST
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,2,2,Médico ocupacional
+Febrero,GENERAL,GENERAL,Inspecciones,Inspección preoperacional de montacargas,1,0,CSST
+Febrero,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección preoperacional de montacargas,1,0,Supervisor de área
+Febrero,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,3,2,Médico ocupacional
+Febrero,HONDA AUTOS,OPERACIONES,Capacitación,Ejecución del programa anual de capacitación,4,4,Supervisor de área
+Febrero,CORPORATIVO,MARKETING,Capacitación,Ejecución del programa anual de capacitación,3,3,Médico ocupacional
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Capacitación,Ejecución del programa anual de capacitación,1,1,Médico ocupacional
+Febrero,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de sismo,3,2,Supervisor de área
+Febrero,CORPORATIVO,ALMACEN,Simulacros,Simulacro de sismo,2,2,Jefe de SST
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,2,0,CSST
+Febrero,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de sismo,3,3,CSST
+Febrero,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de incendio en taller,4,3,Médico ocupacional
+Febrero,CORPORATIVO,MARKETING,Simulacros,Simulacro de incendio en taller,1,1,Jefe de SST
+Febrero,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de incendio en taller,4,2,Médico ocupacional
+Febrero,GENERAL,GENERAL,Simulacros,Simulacro de incendio en taller,4,4,Supervisor de área
+Febrero,CORPORATIVO,ALMACEN,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Jefe de SST
+Febrero,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de derrame de sustancias peligrosas,3,3,Médico ocupacional
+Febrero,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Jefe de SST
+Febrero,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,3,3,CSST
+Febrero,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,1,1,Médico ocupacional
+Febrero,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Exámenes médicos ocupacionales,3,3,CSST
+Febrero,CORPORATIVO,ALMACEN,Salud ocupacional,Exámenes médicos ocupacionales,1,1,CSST
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Exámenes médicos ocupacionales,2,2,CSST
+Febrero,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,3,2,Jefe de SST
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Campaña de pausas activas,4,3,Supervisor de área
+Febrero,HONDA AUTOS,OPERACIONES,Salud ocupacional,Campaña de pausas activas,1,1,Médico ocupacional
+Febrero,HONDA AUTOS,POSVENTA,Salud ocupacional,Campaña de pausas activas,4,3,Supervisor de área
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Evaluación de riesgo psicosocial,2,2,Médico ocupacional
+Febrero,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Evaluación de riesgo psicosocial,4,4,CSST
+Febrero,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,3,3,CSST
+Febrero,GENERAL,GENERAL,Salud ocupacional,Evaluación de riesgo psicosocial,4,2,Supervisor de área
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de ruido,1,1,Supervisor de área
+Febrero,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de ruido,1,1,Médico ocupacional
+Febrero,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de ruido,2,1,CSST
+Febrero,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de ruido,4,3,Supervisor de área
+Febrero,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,2,Jefe de SST
+Febrero,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,3,CSST
+Febrero,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,2,Supervisor de área
+Febrero,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,0,Médico ocupacional
+Febrero,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,1,CSST
+Febrero,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,3,Médico ocupacional
+Febrero,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,2,CSST
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,0,Supervisor de área
+Febrero,HONDA AUTOS,POSVENTA,Observaciones preventivas,Observación preventiva de conducta,4,2,Médico ocupacional
+Febrero,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,4,4,Jefe de SST
+Febrero,GENERAL,GENERAL,Observaciones preventivas,Observación preventiva de conducta,2,2,Médico ocupacional
+Febrero,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Observación preventiva de conducta,4,3,Médico ocupacional
+Febrero,HONDA AUTOS,VENTAS,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,3,Supervisor de área
+Febrero,GENERAL,GENERAL,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,1,Supervisor de área
+Febrero,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,1,Jefe de SST
+Febrero,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,4,Jefe de SST
+Marzo,HONDA AUTOS,VENTAS,Inspecciones,Inspección planeada de taller,1,0,CSST
+Marzo,CORPORATIVO,ALMACEN,Inspecciones,Inspección planeada de taller,2,0,CSST
+Marzo,HONDA AUTOS,POSVENTA,Inspecciones,Inspección planeada de taller,4,2,Jefe de SST
+Marzo,CORPORATIVO,MARKETING,Inspecciones,Inspección planeada de taller,1,1,CSST
+Marzo,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,1,1,CSST
+Marzo,GENERAL,GENERAL,Inspecciones,Inspección de equipos de emergencia,4,4,CSST
+Marzo,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección de equipos de emergencia,2,1,Supervisor de área
+Marzo,HONDA AUTOS,POSVENTA,Inspecciones,Inspección de equipos de emergencia,2,2,Médico ocupacional
+Marzo,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,4,2,Médico ocupacional
+Marzo,HONDA AUTOS,VENTAS,Inspecciones,Inspección preoperacional de montacargas,1,1,Supervisor de área
+Marzo,CORPORATIVO,ALMACEN,Inspecciones,Inspección preoperacional de montacargas,4,4,Supervisor de área
+Marzo,HONDA AUTOS,POSVENTA,Inspecciones,Inspección preoperacional de montacargas,4,4,CSST
+Marzo,CORPORATIVO,ALMACEN,Capacitación,Ejecución del programa anual de capacitación,2,2,CSST
+Marzo,HONDA AUTOS,OPERACIONES,Capacitación,Ejecución del programa anual de capacitación,1,1,Médico ocupacional
+Marzo,CORPORATIVO,MARKETING,Capacitación,Ejecución del programa anual de capacitación,2,2,Supervisor de área
+Marzo,HONDA MOTOS,HONDA MOTOS,Capacitación,Ejecución del programa anual de capacitación,2,1,Supervisor de área
+Marzo,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,4,3,Supervisor de área
+Marzo,CORPORATIVO,ALMACEN,Simulacros,Simulacro de sismo,2,1,Médico ocupacional
+Marzo,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de sismo,1,0,Supervisor de área
+Marzo,HONDA AUTOS,VENTAS,Simulacros,Simulacro de sismo,4,4,Supervisor de área
+Marzo,HONDA AUTOS,VENTAS,Simulacros,Simulacro de incendio en taller,1,0,Jefe de SST
+Marzo,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de incendio en taller,2,1,Médico ocupacional
+Marzo,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de incendio en taller,3,1,Jefe de SST
+Marzo,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de incendio en taller,1,1,CSST
+Marzo,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de derrame de sustancias peligrosas,4,4,CSST
+Marzo,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de derrame de sustancias peligrosas,4,4,CSST
+Marzo,CORPORATIVO,MARKETING,Simulacros,Simulacro de derrame de sustancias peligrosas,4,4,Jefe de SST
+Marzo,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,CSST
+Marzo,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,2,1,CSST
+Marzo,HONDA AUTOS,OPERACIONES,Salud ocupacional,Exámenes médicos ocupacionales,3,2,Jefe de SST
+Marzo,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Exámenes médicos ocupacionales,1,0,Médico ocupacional
+Marzo,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,2,2,Médico ocupacional
+Marzo,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Campaña de pausas activas,1,0,Médico ocupacional
+Marzo,HONDA AUTOS,OPERACIONES,Salud ocupacional,Campaña de pausas activas,2,0,Médico ocupacional
+Marzo,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,1,0,Jefe de SST
+Marzo,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,4,4,Jefe de SST
+Marzo,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Evaluación de riesgo psicosocial,3,3,CSST
+Marzo,HONDA AUTOS,POSVENTA,Salud ocupacional,Evaluación de riesgo psicosocial,3,2,Jefe de SST
+Marzo,CORPORATIVO,MARKETING,Salud ocupacional,Evaluación de riesgo psicosocial,3,1,CSST
+Marzo,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,3,3,Jefe de SST
+Marzo,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de ruido,4,2,Médico ocupacional
+Marzo,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de ruido,4,4,Médico ocupacional
+Marzo,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de ruido,4,4,Médico ocupacional
+Marzo,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de ruido,2,2,CSST
+Marzo,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,2,CSST
+Marzo,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,0,Supervisor de área
+Marzo,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,Supervisor de área
+Marzo,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,Jefe de SST
+Marzo,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,1,Jefe de SST
+Marzo,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,Jefe de SST
+Marzo,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,2,Médico ocupacional
+Marzo,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,2,Médico ocupacional
+Marzo,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,4,3,Supervisor de área
+Marzo,HONDA AUTOS,POSVENTA,Observaciones preventivas,Observación preventiva de conducta,1,1,CSST
+Marzo,CORPORATIVO,ALMACEN,Observaciones preventivas,Observación preventiva de conducta,3,2,CSST
+Marzo,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Observación preventiva de conducta,3,3,CSST
+Marzo,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,2,Supervisor de área
+Marzo,GENERAL,GENERAL,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,2,Supervisor de área
+Marzo,HONDA AUTOS,POSVENTA,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,3,Médico ocupacional
+Marzo,CORPORATIVO,MARKETING,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,3,Supervisor de área
+Abril,HONDA AUTOS,POSVENTA,Inspecciones,Inspección planeada de taller,1,1,Médico ocupacional
+Abril,CORPORATIVO,MARKETING,Inspecciones,Inspección planeada de taller,2,1,CSST
+Abril,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección planeada de taller,1,1,Supervisor de área
+Abril,HONDA AUTOS,VENTAS,Inspecciones,Inspección planeada de taller,1,1,Supervisor de área
+Abril,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,2,1,CSST
+Abril,HONDA AUTOS,VENTAS,Inspecciones,Inspección de equipos de emergencia,1,1,CSST
+Abril,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección de equipos de emergencia,2,2,CSST
+Abril,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección de equipos de emergencia,3,3,Jefe de SST
+Abril,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección preoperacional de montacargas,2,2,CSST
+Abril,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección preoperacional de montacargas,4,2,CSST
+Abril,HONDA AUTOS,VENTAS,Inspecciones,Inspección preoperacional de montacargas,2,1,CSST
+Abril,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,1,1,Jefe de SST
+Abril,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,4,4,Médico ocupacional
+Abril,HONDA CORPORATIVO,HONDA CORPORATIVO,Capacitación,Ejecución del programa anual de capacitación,2,0,Jefe de SST
+Abril,HONDA MOTOS,HONDA MOTOS,Capacitación,Ejecución del programa anual de capacitación,2,1,CSST
+Abril,HONDA AUTOS,VENTAS,Capacitación,Ejecución del programa anual de capacitación,4,4,CSST
+Abril,CORPORATIVO,ALMACEN,Simulacros,Simulacro de sismo,3,2,Médico ocupacional
+Abril,HONDA AUTOS,VENTAS,Simulacros,Simulacro de sismo,1,1,Supervisor de área
+Abril,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de sismo,4,2,Médico ocupacional
+Abril,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,2,2,Médico ocupacional
+Abril,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de incendio en taller,4,3,CSST
+Abril,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de incendio en taller,4,4,Supervisor de área
+Abril,HONDA AUTOS,VENTAS,Simulacros,Simulacro de incendio en taller,1,1,Supervisor de área
+Abril,CORPORATIVO,MARKETING,Simulacros,Simulacro de incendio en taller,4,4,CSST
+Abril,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de derrame de sustancias peligrosas,2,1,Supervisor de área
+Abril,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Médico ocupacional
+Abril,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,4,4,CSST
+Abril,CORPORATIVO,MARKETING,Simulacros,Simulacro de derrame de sustancias peligrosas,2,2,Médico ocupacional
+Abril,CORPORATIVO,MARKETING,Salud ocupacional,Exámenes médicos ocupacionales,1,0,Supervisor de área
+Abril,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,2,1,Médico ocupacional
+Abril,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Exámenes médicos ocupacionales,2,1,Supervisor de área
+Abril,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Exámenes médicos ocupacionales,2,2,Médico ocupacional
+Abril,HONDA AUTOS,OPERACIONES,Salud ocupacional,Campaña de pausas activas,2,2,Supervisor de área
+Abril,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Campaña de pausas activas,1,0,Jefe de SST
+Abril,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,3,3,Médico ocupacional
+Abril,HONDA AUTOS,VENTAS,Salud ocupacional,Campaña de pausas activas,4,3,CSST
+Abril,CORPORATIVO,ALMACEN,Salud ocupacional,Evaluación de riesgo psicosocial,4,3,CSST
+Abril,HONDA AUTOS,OPERACIONES,Salud ocupacional,Evaluación de riesgo psicosocial,4,3,Médico ocupacional
+Abril,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Evaluación de riesgo psicosocial,2,2,Jefe de SST
+Abril,HONDA AUTOS,POSVENTA,Salud ocupacional,Evaluación de riesgo psicosocial,4,3,Supervisor de área
+Abril,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de ruido,2,1,Médico ocupacional
+Abril,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de ruido,1,1,Supervisor de área
+Abril,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de ruido,3,2,CSST
+Abril,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de ruido,1,0,Jefe de SST
+Abril,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,1,Jefe de SST
+Abril,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,0,Médico ocupacional
+Abril,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,2,Jefe de SST
+Abril,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,1,Supervisor de área
+Abril,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,CSST
+Abril,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,2,CSST
+Abril,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,CSST
+Abril,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,CSST
+Abril,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Observación preventiva de conducta,2,2,Médico ocupacional
+Abril,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,2,0,CSST
+Abril,CORPORATIVO,ALMACEN,Observaciones preventivas,Observación preventiva de conducta,3,2,Supervisor de área
+Abril,HONDA AUTOS,VENTAS,Observaciones preventivas,Observación preventiva de conducta,3,3,Jefe de SST
+Abril,CORPORATIVO,MARKETING,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,1,Médico ocupacional
+Abril,CORPORATIVO,ALMACEN,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,3,Médico ocupacional
+Abril,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,2,Supervisor de área
+Abril,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,3,Jefe de SST
+Mayo,GENERAL,GENERAL,Inspecciones,Inspección planeada de taller,1,1,CSST
+Mayo,HONDA AUTOS,POSVENTA,Inspecciones,Inspección planeada de taller,3,1,CSST
+Mayo,CORPORATIVO,ALMACEN,Inspecciones,Inspección planeada de taller,1,0,Jefe de SST
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección planeada de taller,2,2,CSST
+Mayo,CORPORATIVO,ALMACEN,Inspecciones,Inspección de equipos de emergencia,1,1,Médico ocupacional
+Mayo,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,2,1,Jefe de SST
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección de equipos de emergencia,1,1,Jefe de SST
+Mayo,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección de equipos de emergencia,3,3,Jefe de SST
+Mayo,CORPORATIVO,MARKETING,Inspecciones,Inspección preoperacional de montacargas,3,2,Supervisor de área
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,2,2,Médico ocupacional
+Mayo,HONDA AUTOS,POSVENTA,Inspecciones,Inspección preoperacional de montacargas,2,2,Jefe de SST
+Mayo,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección preoperacional de montacargas,2,0,Supervisor de área
+Mayo,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,3,2,CSST
+Mayo,HONDA AUTOS,VENTAS,Capacitación,Ejecución del programa anual de capacitación,1,1,CSST
+Mayo,CORPORATIVO,ALMACEN,Capacitación,Ejecución del programa anual de capacitación,4,3,Médico ocupacional
+Mayo,HONDA AUTOS,POSVENTA,Capacitación,Ejecución del programa anual de capacitación,2,2,Jefe de SST
+Mayo,HONDA AUTOS,VENTAS,Simulacros,Simulacro de sismo,4,4,Supervisor de área
+Mayo,GENERAL,GENERAL,Simulacros,Simulacro de sismo,2,2,Jefe de SST
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,1,0,Supervisor de área
+Mayo,CORPORATIVO,ALMACEN,Simulacros,Simulacro de sismo,2,1,Supervisor de área
+Mayo,CORPORATIVO,ALMACEN,Simulacros,Simulacro de incendio en taller,3,3,CSST
+Mayo,GENERAL,GENERAL,Simulacros,Simulacro de incendio en taller,1,0,Médico ocupacional
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de incendio en taller,1,0,Médico ocupacional
+Mayo,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de incendio en taller,4,4,Médico ocupacional
+Mayo,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de derrame de sustancias peligrosas,2,0,Jefe de SST
+Mayo,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,CSST
+Mayo,HONDA AUTOS,VENTAS,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Médico ocupacional
+Mayo,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,3,3,Supervisor de área
+Mayo,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,3,3,Supervisor de área
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Exámenes médicos ocupacionales,2,0,CSST
+Mayo,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,2,1,CSST
+Mayo,GENERAL,GENERAL,Salud ocupacional,Exámenes médicos ocupacionales,2,1,Médico ocupacional
+Mayo,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,1,0,Supervisor de área
+Mayo,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,3,3,Médico ocupacional
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Campaña de pausas activas,1,0,Supervisor de área
+Mayo,HONDA AUTOS,VENTAS,Salud ocupacional,Campaña de pausas activas,2,2,Jefe de SST
+Mayo,HONDA AUTOS,POSVENTA,Salud ocupacional,Evaluación de riesgo psicosocial,3,3,Jefe de SST
+Mayo,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,Supervisor de área
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Evaluación de riesgo psicosocial,1,0,Jefe de SST
+Mayo,GENERAL,GENERAL,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,CSST
+Mayo,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de ruido,4,4,Supervisor de área
+Mayo,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de ruido,2,2,Jefe de SST
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de ruido,1,1,Jefe de SST
+Mayo,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de ruido,3,2,Jefe de SST
+Mayo,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,3,CSST
+Mayo,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,Jefe de SST
+Mayo,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,3,CSST
+Mayo,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,0,CSST
+Mayo,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,Jefe de SST
+Mayo,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,Médico ocupacional
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,Médico ocupacional
+Mayo,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,0,Supervisor de área
+Mayo,HONDA AUTOS,POSVENTA,Observaciones preventivas,Observación preventiva de conducta,4,4,Supervisor de área
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Observación preventiva de conducta,3,3,Jefe de SST
+Mayo,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,3,2,Jefe de SST
+Mayo,GENERAL,GENERAL,Observaciones preventivas,Observación preventiva de conducta,4,2,Supervisor de área
+Mayo,GENERAL,GENERAL,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,2,Supervisor de área
+Mayo,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,3,Supervisor de área
+Mayo,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,4,Jefe de SST
+Mayo,CORPORATIVO,ALMACEN,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,0,Jefe de SST
+Junio,CORPORATIVO,MARKETING,Inspecciones,Inspección planeada de taller,4,2,Jefe de SST
+Junio,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección planeada de taller,4,2,Jefe de SST
+Junio,HONDA AUTOS,VENTAS,Inspecciones,Inspección planeada de taller,3,3,CSST
+Junio,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección planeada de taller,3,2,Supervisor de área
+Junio,CORPORATIVO,ALMACEN,Inspecciones,Inspección de equipos de emergencia,2,1,Jefe de SST
+Junio,CORPORATIVO,MARKETING,Inspecciones,Inspección de equipos de emergencia,3,2,CSST
+Junio,HONDA AUTOS,POSVENTA,Inspecciones,Inspección de equipos de emergencia,2,1,CSST
+Junio,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,2,1,Médico ocupacional
+Junio,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,3,2,Supervisor de área
+Junio,GENERAL,GENERAL,Inspecciones,Inspección preoperacional de montacargas,2,2,CSST
+Junio,HONDA AUTOS,POSVENTA,Inspecciones,Inspección preoperacional de montacargas,2,0,Supervisor de área
+Junio,CORPORATIVO,MARKETING,Inspecciones,Inspección preoperacional de montacargas,2,0,CSST
+Junio,CORPORATIVO,MARKETING,Capacitación,Ejecución del programa anual de capacitación,2,2,Jefe de SST
+Junio,HONDA AUTOS,POSVENTA,Capacitación,Ejecución del programa anual de capacitación,2,0,Jefe de SST
+Junio,CORPORATIVO,ALMACEN,Capacitación,Ejecución del programa anual de capacitación,2,1,Supervisor de área
+Junio,HONDA AUTOS,OPERACIONES,Capacitación,Ejecución del programa anual de capacitación,2,2,CSST
+Junio,CORPORATIVO,ALMACEN,Simulacros,Simulacro de sismo,1,1,Supervisor de área
+Junio,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de sismo,4,3,Jefe de SST
+Junio,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de sismo,1,0,Médico ocupacional
+Junio,HONDA AUTOS,VENTAS,Simulacros,Simulacro de sismo,2,1,CSST
+Junio,GENERAL,GENERAL,Simulacros,Simulacro de incendio en taller,4,4,Supervisor de área
+Junio,HONDA AUTOS,VENTAS,Simulacros,Simulacro de incendio en taller,4,2,Médico ocupacional
+Junio,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de incendio en taller,2,0,Supervisor de área
+Junio,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de incendio en taller,2,0,Jefe de SST
+Junio,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,1,0,Supervisor de área
+Junio,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de derrame de sustancias peligrosas,4,2,Supervisor de área
+Junio,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de derrame de sustancias peligrosas,3,2,Médico ocupacional
+Junio,CORPORATIVO,MARKETING,Simulacros,Simulacro de derrame de sustancias peligrosas,4,4,Médico ocupacional
+Junio,HONDA AUTOS,OPERACIONES,Salud ocupacional,Exámenes médicos ocupacionales,4,3,Jefe de SST
+Junio,CORPORATIVO,MARKETING,Salud ocupacional,Exámenes médicos ocupacionales,1,1,Supervisor de área
+Junio,GENERAL,GENERAL,Salud ocupacional,Exámenes médicos ocupacionales,2,0,Supervisor de área
+Junio,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,3,3,Médico ocupacional
+Junio,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Campaña de pausas activas,1,0,CSST
+Junio,CORPORATIVO,MARKETING,Salud ocupacional,Campaña de pausas activas,3,2,Médico ocupacional
+Junio,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,2,0,Supervisor de área
+Junio,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Campaña de pausas activas,4,3,Jefe de SST
+Junio,CORPORATIVO,MARKETING,Salud ocupacional,Evaluación de riesgo psicosocial,3,2,Médico ocupacional
+Junio,GENERAL,GENERAL,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,Jefe de SST
+Junio,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,4,3,CSST
+Junio,HONDA AUTOS,OPERACIONES,Salud ocupacional,Evaluación de riesgo psicosocial,3,3,Supervisor de área
+Junio,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de ruido,2,1,Médico ocupacional
+Junio,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de ruido,2,2,Supervisor de área
+Junio,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de ruido,1,0,Supervisor de área
+Junio,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de ruido,4,2,Supervisor de área
+Junio,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,Supervisor de área
+Junio,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,Supervisor de área
+Junio,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,1,Médico ocupacional
+Junio,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,2,Supervisor de área
+Junio,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,3,CSST
+Junio,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,2,Médico ocupacional
+Junio,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,3,Jefe de SST
+Junio,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,3,CSST
+Junio,CORPORATIVO,ALMACEN,Observaciones preventivas,Observación preventiva de conducta,3,3,CSST
+Junio,HONDA AUTOS,VENTAS,Observaciones preventivas,Observación preventiva de conducta,1,0,Jefe de SST
+Junio,GENERAL,GENERAL,Observaciones preventivas,Observación preventiva de conducta,2,2,CSST
+Junio,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Observación preventiva de conducta,3,2,Jefe de SST
+Junio,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,4,Supervisor de área
+Junio,CORPORATIVO,ALMACEN,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,1,Supervisor de área
+Junio,HONDA AUTOS,POSVENTA,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,0,CSST
+Junio,CORPORATIVO,MARKETING,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,1,Supervisor de área
+Julio,HONDA AUTOS,POSVENTA,Inspecciones,Inspección planeada de taller,1,1,Médico ocupacional
+Julio,CORPORATIVO,MARKETING,Inspecciones,Inspección planeada de taller,2,2,Médico ocupacional
+Julio,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección planeada de taller,4,3,Jefe de SST
+Julio,HONDA AUTOS,VENTAS,Inspecciones,Inspección planeada de taller,4,3,Supervisor de área
+Julio,GENERAL,GENERAL,Inspecciones,Inspección de equipos de emergencia,1,1,CSST
+Julio,HONDA AUTOS,POSVENTA,Inspecciones,Inspección de equipos de emergencia,4,2,Médico ocupacional
+Julio,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,3,2,CSST
+Julio,CORPORATIVO,ALMACEN,Inspecciones,Inspección de equipos de emergencia,4,3,Jefe de SST
+Julio,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección preoperacional de montacargas,1,0,Jefe de SST
+Julio,CORPORATIVO,MARKETING,Inspecciones,Inspección preoperacional de montacargas,3,3,Médico ocupacional
+Julio,GENERAL,GENERAL,Inspecciones,Inspección preoperacional de montacargas,4,4,Jefe de SST
+Julio,HONDA AUTOS,VENTAS,Inspecciones,Inspección preoperacional de montacargas,2,0,Médico ocupacional
+Julio,HONDA AUTOS,OPERACIONES,Capacitación,Ejecución del programa anual de capacitación,3,2,Supervisor de área
+Julio,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,3,2,CSST
+Julio,HONDA AUTOS,VENTAS,Capacitación,Ejecución del programa anual de capacitación,4,4,Jefe de SST
+Julio,CORPORATIVO,ALMACEN,Capacitación,Ejecución del programa anual de capacitación,3,3,CSST
+Julio,GENERAL,GENERAL,Simulacros,Simulacro de sismo,3,2,CSST
+Julio,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de sismo,2,0,Médico ocupacional
+Julio,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de sismo,1,1,Supervisor de área
+Julio,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,3,1,CSST
+Julio,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de incendio en taller,1,0,Médico ocupacional
+Julio,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de incendio en taller,1,0,CSST
+Julio,CORPORATIVO,MARKETING,Simulacros,Simulacro de incendio en taller,1,1,Jefe de SST
+Julio,HONDA AUTOS,VENTAS,Simulacros,Simulacro de incendio en taller,2,1,Jefe de SST
+Julio,CORPORATIVO,ALMACEN,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Jefe de SST
+Julio,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de derrame de sustancias peligrosas,4,2,Supervisor de área
+Julio,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de derrame de sustancias peligrosas,1,0,Supervisor de área
+Julio,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,1,0,Jefe de SST
+Julio,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,3,3,Supervisor de área
+Julio,HONDA AUTOS,OPERACIONES,Salud ocupacional,Exámenes médicos ocupacionales,4,4,CSST
+Julio,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,1,0,Jefe de SST
+Julio,CORPORATIVO,ALMACEN,Salud ocupacional,Exámenes médicos ocupacionales,4,3,Jefe de SST
+Julio,HONDA AUTOS,POSVENTA,Salud ocupacional,Campaña de pausas activas,4,3,Jefe de SST
+Julio,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,1,0,Médico ocupacional
+Julio,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Campaña de pausas activas,2,1,Médico ocupacional
+Julio,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Campaña de pausas activas,1,1,Médico ocupacional
+Julio,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Evaluación de riesgo psicosocial,4,4,Jefe de SST
+Julio,HONDA AUTOS,POSVENTA,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,Supervisor de área
+Julio,CORPORATIVO,MARKETING,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,Médico ocupacional
+Julio,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,Supervisor de área
+Julio,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de ruido,1,1,Supervisor de área
+Julio,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de ruido,1,1,Médico ocupacional
+Julio,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de ruido,4,2,CSST
+Julio,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de ruido,1,0,Jefe de SST
+Julio,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,0,CSST
+Julio,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,1,Supervisor de área
+Julio,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,3,Jefe de SST
+Julio,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,3,Médico ocupacional
+Julio,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,Supervisor de área
+Julio,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,3,Médico ocupacional
+Julio,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,CSST
+Julio,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,3,Jefe de SST
+Julio,CORPORATIVO,MARKETING,Observaciones preventivas,Observación preventiva de conducta,2,1,CSST
+Julio,CORPORATIVO,ALMACEN,Observaciones preventivas,Observación preventiva de conducta,4,4,Médico ocupacional
+Julio,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Observación preventiva de conducta,4,2,Médico ocupacional
+Julio,HONDA AUTOS,VENTAS,Observaciones preventivas,Observación preventiva de conducta,2,1,CSST
+Julio,HONDA AUTOS,VENTAS,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,4,Jefe de SST
+Julio,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,3,Supervisor de área
+Julio,CORPORATIVO,ALMACEN,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,2,Médico ocupacional
+Julio,CORPORATIVO,MARKETING,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,2,Jefe de SST
+Agosto,GENERAL,GENERAL,Inspecciones,Inspección planeada de taller,2,2,Jefe de SST
+Agosto,CORPORATIVO,ALMACEN,Inspecciones,Inspección planeada de taller,4,3,Supervisor de área
+Agosto,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección planeada de taller,3,2,Jefe de SST
+Agosto,HONDA AUTOS,POSVENTA,Inspecciones,Inspección planeada de taller,4,3,Jefe de SST
+Agosto,CORPORATIVO,MARKETING,Inspecciones,Inspección de equipos de emergencia,4,3,CSST
+Agosto,CORPORATIVO,ALMACEN,Inspecciones,Inspección de equipos de emergencia,3,2,Supervisor de área
+Agosto,HONDA AUTOS,VENTAS,Inspecciones,Inspección de equipos de emergencia,2,2,Supervisor de área
+Agosto,HONDA AUTOS,POSVENTA,Inspecciones,Inspección de equipos de emergencia,1,1,CSST
+Agosto,CORPORATIVO,MARKETING,Inspecciones,Inspección preoperacional de montacargas,4,3,Supervisor de área
+Agosto,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,2,2,Médico ocupacional
+Agosto,CORPORATIVO,ALMACEN,Inspecciones,Inspección preoperacional de montacargas,3,3,CSST
+Agosto,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección preoperacional de montacargas,4,4,Supervisor de área
+Agosto,CORPORATIVO,MARKETING,Capacitación,Ejecución del programa anual de capacitación,3,2,Jefe de SST
+Agosto,HONDA CORPORATIVO,HONDA CORPORATIVO,Capacitación,Ejecución del programa anual de capacitación,1,1,Supervisor de área
+Agosto,HONDA AUTOS,VENTAS,Capacitación,Ejecución del programa anual de capacitación,4,3,Supervisor de área
+Agosto,HONDA AUTOS,OPERACIONES,Capacitación,Ejecución del programa anual de capacitación,3,3,Médico ocupacional
+Agosto,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de sismo,2,2,Jefe de SST
+Agosto,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de sismo,3,3,Supervisor de área
+Agosto,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,4,4,Jefe de SST
+Agosto,CORPORATIVO,MARKETING,Simulacros,Simulacro de sismo,1,1,CSST
+Agosto,GENERAL,GENERAL,Simulacros,Simulacro de incendio en taller,4,4,Jefe de SST
+Agosto,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de incendio en taller,3,3,Supervisor de área
+Agosto,HONDA AUTOS,VENTAS,Simulacros,Simulacro de incendio en taller,1,0,Médico ocupacional
+Agosto,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de incendio en taller,2,1,Supervisor de área
+Agosto,CORPORATIVO,MARKETING,Simulacros,Simulacro de derrame de sustancias peligrosas,2,2,CSST
+Agosto,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de derrame de sustancias peligrosas,3,3,Jefe de SST
+Agosto,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Médico ocupacional
+Agosto,CORPORATIVO,ALMACEN,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Supervisor de área
+Agosto,CORPORATIVO,MARKETING,Salud ocupacional,Exámenes médicos ocupacionales,3,2,Médico ocupacional
+Agosto,CORPORATIVO,ALMACEN,Salud ocupacional,Exámenes médicos ocupacionales,1,0,CSST
+Agosto,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,3,3,Médico ocupacional
+Agosto,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,1,1,Médico ocupacional
+Agosto,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,2,0,Jefe de SST
+Agosto,HONDA AUTOS,POSVENTA,Salud ocupacional,Campaña de pausas activas,4,2,Supervisor de área
+Agosto,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Campaña de pausas activas,1,1,Supervisor de área
+Agosto,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,1,0,CSST
+Agosto,HONDA AUTOS,OPERACIONES,Salud ocupacional,Evaluación de riesgo psicosocial,4,4,Jefe de SST
+Agosto,CORPORATIVO,ALMACEN,Salud ocupacional,Evaluación de riesgo psicosocial,4,4,CSST
+Agosto,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Evaluación de riesgo psicosocial,2,1,Jefe de SST
+Agosto,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,3,3,CSST
+Agosto,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de ruido,4,3,Supervisor de área
+Agosto,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de ruido,4,4,CSST
+Agosto,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de ruido,4,3,Supervisor de área
+Agosto,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de ruido,2,2,CSST
+Agosto,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,CSST
+Agosto,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,3,Jefe de SST
+Agosto,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,1,Jefe de SST
+Agosto,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,1,Médico ocupacional
+Agosto,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,2,CSST
+Agosto,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,2,Jefe de SST
+Agosto,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,Médico ocupacional
+Agosto,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,2,CSST
+Agosto,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,3,2,Supervisor de área
+Agosto,CORPORATIVO,MARKETING,Observaciones preventivas,Observación preventiva de conducta,4,4,CSST
+Agosto,HONDA AUTOS,VENTAS,Observaciones preventivas,Observación preventiva de conducta,2,2,Médico ocupacional
+Agosto,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Observación preventiva de conducta,1,0,Supervisor de área
+Agosto,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,1,Supervisor de área
+Agosto,GENERAL,GENERAL,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,2,Jefe de SST
+Agosto,HONDA AUTOS,POSVENTA,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,0,Médico ocupacional
+Agosto,CORPORATIVO,MARKETING,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,3,Supervisor de área
+Setiembre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección planeada de taller,3,3,Jefe de SST
+Setiembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección planeada de taller,1,0,Médico ocupacional
+Setiembre,CORPORATIVO,MARKETING,Inspecciones,Inspección planeada de taller,1,0,CSST
+Setiembre,HONDA AUTOS,POSVENTA,Inspecciones,Inspección planeada de taller,3,3,Médico ocupacional
+Setiembre,HONDA AUTOS,POSVENTA,Inspecciones,Inspección de equipos de emergencia,2,0,CSST
+Setiembre,HONDA AUTOS,VENTAS,Inspecciones,Inspección de equipos de emergencia,2,2,CSST
+Setiembre,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,1,1,CSST
+Setiembre,CORPORATIVO,MARKETING,Inspecciones,Inspección de equipos de emergencia,1,1,Médico ocupacional
+Setiembre,HONDA AUTOS,POSVENTA,Inspecciones,Inspección preoperacional de montacargas,3,1,Médico ocupacional
+Setiembre,HONDA AUTOS,VENTAS,Inspecciones,Inspección preoperacional de montacargas,1,1,Jefe de SST
+Setiembre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección preoperacional de montacargas,4,3,Jefe de SST
+Setiembre,GENERAL,GENERAL,Inspecciones,Inspección preoperacional de montacargas,2,2,Supervisor de área
+Setiembre,HONDA AUTOS,POSVENTA,Capacitación,Ejecución del programa anual de capacitación,2,2,CSST
+Setiembre,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,3,2,Jefe de SST
+Setiembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Capacitación,Ejecución del programa anual de capacitación,1,1,Supervisor de área
+Setiembre,CORPORATIVO,ALMACEN,Capacitación,Ejecución del programa anual de capacitación,3,3,Médico ocupacional
+Setiembre,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de sismo,3,3,Supervisor de área
+Setiembre,CORPORATIVO,MARKETING,Simulacros,Simulacro de sismo,1,1,Jefe de SST
+Setiembre,GENERAL,GENERAL,Simulacros,Simulacro de sismo,4,3,CSST
+Setiembre,HONDA AUTOS,VENTAS,Simulacros,Simulacro de sismo,1,1,Jefe de SST
+Setiembre,CORPORATIVO,ALMACEN,Simulacros,Simulacro de incendio en taller,2,2,Supervisor de área
+Setiembre,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de incendio en taller,4,2,Médico ocupacional
+Setiembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de incendio en taller,2,2,Médico ocupacional
+Setiembre,CORPORATIVO,MARKETING,Simulacros,Simulacro de incendio en taller,4,3,Jefe de SST
+Setiembre,CORPORATIVO,ALMACEN,Simulacros,Simulacro de derrame de sustancias peligrosas,4,4,CSST
+Setiembre,HONDA AUTOS,VENTAS,Simulacros,Simulacro de derrame de sustancias peligrosas,4,3,CSST
+Setiembre,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de derrame de sustancias peligrosas,4,3,Jefe de SST
+Setiembre,CORPORATIVO,MARKETING,Simulacros,Simulacro de derrame de sustancias peligrosas,3,2,Supervisor de área
+Setiembre,CORPORATIVO,MARKETING,Salud ocupacional,Exámenes médicos ocupacionales,3,3,Supervisor de área
+Setiembre,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,1,1,Médico ocupacional
+Setiembre,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Exámenes médicos ocupacionales,2,1,Jefe de SST
+Setiembre,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,2,2,Médico ocupacional
+Setiembre,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,1,1,CSST
+Setiembre,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,3,1,Jefe de SST
+Setiembre,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Campaña de pausas activas,1,1,Jefe de SST
+Setiembre,HONDA AUTOS,VENTAS,Salud ocupacional,Campaña de pausas activas,1,0,Supervisor de área
+Setiembre,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,3,1,Supervisor de área
+Setiembre,HONDA AUTOS,OPERACIONES,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,CSST
+Setiembre,GENERAL,GENERAL,Salud ocupacional,Evaluación de riesgo psicosocial,1,0,Supervisor de área
+Setiembre,CORPORATIVO,ALMACEN,Salud ocupacional,Evaluación de riesgo psicosocial,4,4,Supervisor de área
+Setiembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de ruido,3,3,Jefe de SST
+Setiembre,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de ruido,3,2,Supervisor de área
+Setiembre,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de ruido,4,4,CSST
+Setiembre,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de ruido,4,3,CSST
+Setiembre,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,2,Supervisor de área
+Setiembre,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,1,Médico ocupacional
+Setiembre,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,CSST
+Setiembre,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,2,CSST
+Setiembre,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,2,Jefe de SST
+Setiembre,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,Jefe de SST
+Setiembre,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,2,Jefe de SST
+Setiembre,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,3,CSST
+Setiembre,HONDA AUTOS,POSVENTA,Observaciones preventivas,Observación preventiva de conducta,4,4,CSST
+Setiembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Observación preventiva de conducta,2,0,Supervisor de área
+Setiembre,GENERAL,GENERAL,Observaciones preventivas,Observación preventiva de conducta,3,2,Jefe de SST
+Setiembre,CORPORATIVO,MARKETING,Observaciones preventivas,Observación preventiva de conducta,4,4,Supervisor de área
+Setiembre,CORPORATIVO,ALMACEN,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,3,Jefe de SST
+Setiembre,GENERAL,GENERAL,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,3,Supervisor de área
+Setiembre,HONDA AUTOS,VENTAS,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,4,Jefe de SST
+Setiembre,CORPORATIVO,MARKETING,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,3,Médico ocupacional
+Octubre,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección planeada de taller,3,2,Médico ocupacional
+Octubre,CORPORATIVO,MARKETING,Inspecciones,Inspección planeada de taller,3,3,Médico ocupacional
+Octubre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección planeada de taller,4,3,CSST
+Octubre,CORPORATIVO,ALMACEN,Inspecciones,Inspección planeada de taller,2,1,CSST
+Octubre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección de equipos de emergencia,2,2,CSST
+Octubre,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,3,2,Supervisor de área
+Octubre,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección de equipos de emergencia,3,3,Médico ocupacional
+Octubre,CORPORATIVO,ALMACEN,Inspecciones,Inspección de equipos de emergencia,1,1,Jefe de SST
+Octubre,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,3,2,Médico ocupacional
+Octubre,GENERAL,GENERAL,Inspecciones,Inspección preoperacional de montacargas,4,3,Médico ocupacional
+Octubre,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección preoperacional de montacargas,3,3,CSST
+Octubre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección preoperacional de montacargas,4,4,Jefe de SST
+Octubre,HONDA MOTOS,HONDA MOTOS,Capacitación,Ejecución del programa anual de capacitación,4,2,Supervisor de área
+Octubre,HONDA AUTOS,VENTAS,Capacitación,Ejecución del programa anual de capacitación,2,1,Médico ocupacional
+Octubre,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,4,3,CSST
+Octubre,HONDA AUTOS,OPERACIONES,Capacitación,Ejecución del programa anual de capacitación,1,1,CSST
+Octubre,CORPORATIVO,MARKETING,Simulacros,Simulacro de sismo,2,2,CSST
+Octubre,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de sismo,3,2,Médico ocupacional
+Octubre,HONDA AUTOS,VENTAS,Simulacros,Simulacro de sismo,2,1,CSST
+Octubre,CORPORATIVO,ALMACEN,Simulacros,Simulacro de sismo,2,1,Supervisor de área
+Octubre,CORPORATIVO,ALMACEN,Simulacros,Simulacro de incendio en taller,1,1,Jefe de SST
+Octubre,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de incendio en taller,4,4,Jefe de SST
+Octubre,HONDA AUTOS,VENTAS,Simulacros,Simulacro de incendio en taller,3,1,Jefe de SST
+Octubre,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de incendio en taller,3,2,Jefe de SST
+Octubre,HONDA AUTOS,VENTAS,Simulacros,Simulacro de derrame de sustancias peligrosas,2,1,CSST
+Octubre,CORPORATIVO,MARKETING,Simulacros,Simulacro de derrame de sustancias peligrosas,2,1,Supervisor de área
+Octubre,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,4,3,Jefe de SST
+Octubre,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de derrame de sustancias peligrosas,2,2,Jefe de SST
+Octubre,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,4,3,Médico ocupacional
+Octubre,GENERAL,GENERAL,Salud ocupacional,Exámenes médicos ocupacionales,1,0,Jefe de SST
+Octubre,CORPORATIVO,ALMACEN,Salud ocupacional,Exámenes médicos ocupacionales,3,3,Supervisor de área
+Octubre,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,3,3,Supervisor de área
+Octubre,HONDA AUTOS,VENTAS,Salud ocupacional,Campaña de pausas activas,1,1,Supervisor de área
+Octubre,HONDA AUTOS,OPERACIONES,Salud ocupacional,Campaña de pausas activas,4,3,Médico ocupacional
+Octubre,CORPORATIVO,MARKETING,Salud ocupacional,Campaña de pausas activas,1,1,Supervisor de área
+Octubre,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,4,3,Jefe de SST
+Octubre,GENERAL,GENERAL,Salud ocupacional,Evaluación de riesgo psicosocial,2,2,Jefe de SST
+Octubre,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,2,1,Supervisor de área
+Octubre,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Evaluación de riesgo psicosocial,3,3,Médico ocupacional
+Octubre,HONDA AUTOS,POSVENTA,Salud ocupacional,Evaluación de riesgo psicosocial,3,2,CSST
+Octubre,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de ruido,2,1,CSST
+Octubre,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de ruido,4,2,Médico ocupacional
+Octubre,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de ruido,1,1,Jefe de SST
+Octubre,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de ruido,2,2,CSST
+Octubre,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,3,CSST
+Octubre,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,1,Médico ocupacional
+Octubre,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,2,Jefe de SST
+Octubre,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,0,CSST
+Octubre,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,3,Supervisor de área
+Octubre,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,CSST
+Octubre,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,Supervisor de área
+Octubre,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Evaluación ergonómica de puestos,2,0,Supervisor de área
+Octubre,HONDA AUTOS,POSVENTA,Observaciones preventivas,Observación preventiva de conducta,2,1,Médico ocupacional
+Octubre,GENERAL,GENERAL,Observaciones preventivas,Observación preventiva de conducta,4,4,Supervisor de área
+Octubre,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,3,3,Supervisor de área
+Octubre,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Observación preventiva de conducta,4,3,Supervisor de área
+Octubre,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,1,Supervisor de área
+Octubre,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,2,Médico ocupacional
+Octubre,GENERAL,GENERAL,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,2,Supervisor de área
+Octubre,HONDA AUTOS,POSVENTA,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,3,Supervisor de área
+Noviembre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección planeada de taller,1,0,CSST
+Noviembre,CORPORATIVO,ALMACEN,Inspecciones,Inspección planeada de taller,4,4,Supervisor de área
+Noviembre,HONDA AUTOS,VENTAS,Inspecciones,Inspección planeada de taller,3,3,Médico ocupacional
+Noviembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección planeada de taller,1,0,Supervisor de área
+Noviembre,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección de equipos de emergencia,1,0,CSST
+Noviembre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección de equipos de emergencia,3,3,Jefe de SST
+Noviembre,HONDA AUTOS,POSVENTA,Inspecciones,Inspección de equipos de emergencia,3,3,Supervisor de área
+Noviembre,HONDA AUTOS,VENTAS,Inspecciones,Inspección de equipos de emergencia,3,3,Médico ocupacional
+Noviembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,2,2,Supervisor de área
+Noviembre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección preoperacional de montacargas,1,1,CSST
+Noviembre,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección preoperacional de montacargas,4,4,Médico ocupacional
+Noviembre,CORPORATIVO,MARKETING,Inspecciones,Inspección preoperacional de montacargas,2,1,CSST
+Noviembre,HONDA AUTOS,POSVENTA,Capacitación,Ejecución del programa anual de capacitación,3,2,Supervisor de área
+Noviembre,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,1,0,Jefe de SST
+Noviembre,HONDA AUTOS,OPERACIONES,Capacitación,Ejecución del programa anual de capacitación,2,1,Supervisor de área
+Noviembre,HONDA AUTOS,VENTAS,Capacitación,Ejecución del programa anual de capacitación,3,3,Médico ocupacional
+Noviembre,HONDA AUTOS,VENTAS,Simulacros,Simulacro de sismo,2,1,Médico ocupacional
+Noviembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,3,2,CSST
+Noviembre,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de sismo,1,1,CSST
+Noviembre,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de sismo,1,0,Jefe de SST
+Noviembre,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de incendio en taller,3,3,CSST
+Noviembre,CORPORATIVO,MARKETING,Simulacros,Simulacro de incendio en taller,1,0,Médico ocupacional
+Noviembre,HONDA AUTOS,VENTAS,Simulacros,Simulacro de incendio en taller,2,2,Jefe de SST
+Noviembre,CORPORATIVO,ALMACEN,Simulacros,Simulacro de incendio en taller,3,2,Médico ocupacional
+Noviembre,CORPORATIVO,MARKETING,Simulacros,Simulacro de derrame de sustancias peligrosas,1,0,Supervisor de área
+Noviembre,GENERAL,GENERAL,Simulacros,Simulacro de derrame de sustancias peligrosas,4,2,Supervisor de área
+Noviembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de derrame de sustancias peligrosas,4,4,Jefe de SST
+Noviembre,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de derrame de sustancias peligrosas,3,3,Supervisor de área
+Noviembre,HONDA MOTOS,HONDA MOTOS,Salud ocupacional,Exámenes médicos ocupacionales,1,1,CSST
+Noviembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Exámenes médicos ocupacionales,3,2,Jefe de SST
+Noviembre,HONDA AUTOS,OPERACIONES,Salud ocupacional,Exámenes médicos ocupacionales,2,0,CSST
+Noviembre,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,2,2,Médico ocupacional
+Noviembre,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,1,0,Médico ocupacional
+Noviembre,HONDA AUTOS,POSVENTA,Salud ocupacional,Campaña de pausas activas,2,0,CSST
+Noviembre,CORPORATIVO,MARKETING,Salud ocupacional,Campaña de pausas activas,3,3,Supervisor de área
+Noviembre,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,2,2,Jefe de SST
+Noviembre,CORPORATIVO,ALMACEN,Salud ocupacional,Evaluación de riesgo psicosocial,4,3,Supervisor de área
+Noviembre,GENERAL,GENERAL,Salud ocupacional,Evaluación de riesgo psicosocial,1,0,CSST
+Noviembre,HONDA AUTOS,POSVENTA,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,Médico ocupacional
+Noviembre,CORPORATIVO,MARKETING,Salud ocupacional,Evaluación de riesgo psicosocial,2,2,Jefe de SST
+Noviembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de ruido,3,2,Jefe de SST
+Noviembre,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de ruido,2,2,Médico ocupacional
+Noviembre,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de ruido,4,3,CSST
+Noviembre,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de ruido,3,3,Jefe de SST
+Noviembre,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de agentes químicos,1,0,CSST
+Noviembre,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,3,Médico ocupacional
+Noviembre,HONDA MOTOS,HONDA MOTOS,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,3,Supervisor de área
+Noviembre,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,3,CSST
+Noviembre,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,1,Supervisor de área
+Noviembre,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,Jefe de SST
+Noviembre,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,0,Supervisor de área
+Noviembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,3,Supervisor de área
+Noviembre,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,3,2,Supervisor de área
+Noviembre,HONDA AUTOS,VENTAS,Observaciones preventivas,Observación preventiva de conducta,3,3,Supervisor de área
+Noviembre,CORPORATIVO,MARKETING,Observaciones preventivas,Observación preventiva de conducta,3,3,CSST
+Noviembre,GENERAL,GENERAL,Observaciones preventivas,Observación preventiva de conducta,3,3,Jefe de SST
+Noviembre,HONDA AUTOS,VENTAS,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,1,Médico ocupacional
+Noviembre,GENERAL,GENERAL,Observaciones preventivas,Reporte de actos y condiciones inseguras,4,3,Supervisor de área
+Noviembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Reporte de actos y condiciones inseguras,3,2,Jefe de SST
+Noviembre,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,0,Supervisor de área
+Diciembre,HONDA AUTOS,OPERACIONES,Inspecciones,Inspección planeada de taller,1,1,Médico ocupacional
+Diciembre,HONDA AUTOS,POSVENTA,Inspecciones,Inspección planeada de taller,4,4,Supervisor de área
+Diciembre,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección planeada de taller,3,3,Jefe de SST
+Diciembre,CORPORATIVO,MARKETING,Inspecciones,Inspección planeada de taller,4,4,CSST
+Diciembre,HONDA AUTOS,POSVENTA,Inspecciones,Inspección de equipos de emergencia,4,4,Jefe de SST
+Diciembre,CORPORATIVO,MARKETING,Inspecciones,Inspección de equipos de emergencia,4,4,Supervisor de área
+Diciembre,HONDA AUTOS,VENTAS,Inspecciones,Inspección de equipos de emergencia,2,1,CSST
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección de equipos de emergencia,1,0,CSST
+Diciembre,HONDA MOTOS,HONDA MOTOS,Inspecciones,Inspección preoperacional de montacargas,3,2,Médico ocupacional
+Diciembre,GENERAL,GENERAL,Inspecciones,Inspección preoperacional de montacargas,4,3,Supervisor de área
+Diciembre,HONDA AUTOS,VENTAS,Inspecciones,Inspección preoperacional de montacargas,4,3,Jefe de SST
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Inspecciones,Inspección preoperacional de montacargas,1,0,CSST
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Capacitación,Ejecución del programa anual de capacitación,3,2,Supervisor de área
+Diciembre,GENERAL,GENERAL,Capacitación,Ejecución del programa anual de capacitación,3,3,Jefe de SST
+Diciembre,CORPORATIVO,ALMACEN,Capacitación,Ejecución del programa anual de capacitación,2,2,Médico ocupacional
+Diciembre,HONDA MOTOS,HONDA MOTOS,Capacitación,Ejecución del programa anual de capacitación,1,1,CSST
+Diciembre,CORPORATIVO,ALMACEN,Simulacros,Simulacro de sismo,4,3,CSST
+Diciembre,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de sismo,1,1,Supervisor de área
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de sismo,2,1,Jefe de SST
+Diciembre,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de sismo,2,2,Jefe de SST
+Diciembre,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de incendio en taller,4,4,Médico ocupacional
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Simulacros,Simulacro de incendio en taller,2,1,Jefe de SST
+Diciembre,CORPORATIVO,MARKETING,Simulacros,Simulacro de incendio en taller,1,0,Jefe de SST
+Diciembre,HONDA AUTOS,OPERACIONES,Simulacros,Simulacro de incendio en taller,4,4,Jefe de SST
+Diciembre,HONDA AUTOS,POSVENTA,Simulacros,Simulacro de derrame de sustancias peligrosas,2,2,Médico ocupacional
+Diciembre,HONDA MOTOS,HONDA MOTOS,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,CSST
+Diciembre,CORPORATIVO,MARKETING,Simulacros,Simulacro de derrame de sustancias peligrosas,1,0,Supervisor de área
+Diciembre,CORPORATIVO,ALMACEN,Simulacros,Simulacro de derrame de sustancias peligrosas,1,1,Jefe de SST
+Diciembre,HONDA AUTOS,VENTAS,Salud ocupacional,Exámenes médicos ocupacionales,4,4,Jefe de SST
+Diciembre,CORPORATIVO,MARKETING,Salud ocupacional,Exámenes médicos ocupacionales,2,1,Jefe de SST
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Salud ocupacional,Exámenes médicos ocupacionales,2,1,Jefe de SST
+Diciembre,HONDA AUTOS,POSVENTA,Salud ocupacional,Exámenes médicos ocupacionales,3,3,CSST
+Diciembre,CORPORATIVO,MARKETING,Salud ocupacional,Campaña de pausas activas,3,3,Supervisor de área
+Diciembre,CORPORATIVO,ALMACEN,Salud ocupacional,Campaña de pausas activas,3,2,CSST
+Diciembre,GENERAL,GENERAL,Salud ocupacional,Campaña de pausas activas,4,4,CSST
+Diciembre,HONDA AUTOS,VENTAS,Salud ocupacional,Campaña de pausas activas,1,1,CSST
+Diciembre,HONDA AUTOS,POSVENTA,Salud ocupacional,Evaluación de riesgo psicosocial,3,3,Supervisor de área
+Diciembre,HONDA AUTOS,VENTAS,Salud ocupacional,Evaluación de riesgo psicosocial,4,4,Médico ocupacional
+Diciembre,CORPORATIVO,MARKETING,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,Médico ocupacional
+Diciembre,GENERAL,GENERAL,Salud ocupacional,Evaluación de riesgo psicosocial,1,1,CSST
+Diciembre,HONDA AUTOS,OPERACIONES,Monitoreos ocupacionales,Monitoreo de ruido,4,4,CSST
+Diciembre,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Monitoreo de ruido,3,2,Jefe de SST
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Monitoreo de ruido,1,1,Supervisor de área
+Diciembre,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de ruido,4,3,Médico ocupacional
+Diciembre,HONDA AUTOS,VENTAS,Monitoreos ocupacionales,Monitoreo de agentes químicos,2,1,Médico ocupacional
+Diciembre,CORPORATIVO,ALMACEN,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,Médico ocupacional
+Diciembre,GENERAL,GENERAL,Monitoreos ocupacionales,Monitoreo de agentes químicos,4,4,Jefe de SST
+Diciembre,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Monitoreo de agentes químicos,3,3,Supervisor de área
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Monitoreos ocupacionales,Evaluación ergonómica de puestos,1,1,Supervisor de área
+Diciembre,HONDA AUTOS,POSVENTA,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,1,Médico ocupacional
+Diciembre,GENERAL,GENERAL,Monitoreos ocupacionales,Evaluación ergonómica de puestos,3,2,Médico ocupacional
+Diciembre,CORPORATIVO,MARKETING,Monitoreos ocupacionales,Evaluación ergonómica de puestos,4,4,CSST
+Diciembre,HONDA AUTOS,VENTAS,Observaciones preventivas,Observación preventiva de conducta,3,3,Jefe de SST
+Diciembre,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Observación preventiva de conducta,2,1,Jefe de SST
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Observación preventiva de conducta,2,0,Supervisor de área
+Diciembre,HONDA MOTOS,HONDA MOTOS,Observaciones preventivas,Observación preventiva de conducta,3,2,CSST
+Diciembre,HONDA AUTOS,POSVENTA,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,0,Jefe de SST
+Diciembre,HONDA CORPORATIVO,HONDA CORPORATIVO,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,1,Médico ocupacional
+Diciembre,HONDA AUTOS,OPERACIONES,Observaciones preventivas,Reporte de actos y condiciones inseguras,1,1,CSST
+Diciembre,CORPORATIVO,MARKETING,Observaciones preventivas,Reporte de actos y condiciones inseguras,2,2,Jefe de SST
